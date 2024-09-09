@@ -1,0 +1,58 @@
+﻿@model IEnumerable<SalesWebMvc.Models.Department>
+
+@{
+    ViewData["Title"] = "Departamentos";
+}
+
+<link rel="stylesheet" href="~/SalesWebMvc.styles.css" asp-append-version="true" />
+
+<h1>Departamentos</h1>
+
+<p>
+    <form asp-action="Index" method="get" style="display: flex; justify-content: center; margin-bottom: 20px;">
+        <input type="text" name="searchString" placeholder="Buscar departamento" style="padding: 10px; border-radius: 5px; border: 1px solid #ccc;" /> <br />
+        <button type="submit" style="background-color: cadetblue; color: white; border: none; padding: 10px; cursor: pointer; border-radius: 5px;">Buscar Departamento</button>
+    </form>
+
+    <form asp-action="Create" style="display:inline;">
+        <button style="background-color: cadetblue; color: white; border: none; padding: 10px; cursor: pointer; border-radius: 5px;" class="btn btn-primary;">Criar novo Departamento</button>
+    </form>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Nome
+            </th>
+            <th></th>
+      </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    <form asp-action="Edit" asp-route-id="@item.Id" style="display:inline;">
+                        <button type="submit" style="background-color: cadetblue; color: white; border: none; padding: 10px; cursor: pointer; border-radius: 5px;" class="btn btn-primary;">Editar</button>
+                    </form>
+                    |
+                    <form asp-action="Details" asp-route-id="@item.Id" style="display:inline;">
+                        <button type="submit" style="background-color: cadetblue; color: white; border: none; padding: 10px; cursor: pointer; border-radius: 5px;" class="btn btn-primary;">Detalhes</button>
+                    </form>
+                    |
+                    <form asp-action="Delete" asp-route-id="@item.Id" method="post" style="display:inline;">
+                        <button type="submit" style="background-color: red; color: white; border: none; padding: 10px; cursor: pointer; border-radius: 5px;" class="btn btn-primarypointer;">Deletar</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="/images/Screenshot_1.png" alt="Imagem de exemplo" style="width: 50%;">
+</div>

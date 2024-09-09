@@ -1,0 +1,30 @@
+﻿@model SalesWebMvc.Models.Tarefas
+
+@{
+    ViewData["Title"] = "Detalhes";
+}
+
+<h1>Detalhes</h1>
+
+<div>
+    <h4>Tarefas</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Horario)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Horario)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Responsável)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Responsável)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id" style="background-color: cadetblue; color: white; border: none; padding: 10px; cursor: pointer; border-radius: 5px;">Editar</a> |
+    <a asp-action="Index" style="background-color: red; color: white; border: none; padding: 10px; cursor: pointer; border-radius: 5px;">Cancelar</a>
+</div>

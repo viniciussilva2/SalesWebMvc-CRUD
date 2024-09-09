@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\vinyo\\source\\repos\\saleswebmvc\\saleswebmvc\\models\\tarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\models\\tarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\vinyo\\source\\repos\\saleswebmvc\\saleswebmvc\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\vinyo\\source\\repos\\saleswebmvc\\saleswebmvc\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\vinyo\\source\\repos\\saleswebmvc\\saleswebmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\vinyo\\source\\repos\\saleswebmvc\\saleswebmvc\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\vinyo\\source\\repos\\saleswebmvc\\saleswebmvc\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\vinyo\\source\\repos\\saleswebmvc\\saleswebmvc\\views\\tarefas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\tarefas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\vinyo\\source\\repos\\saleswebmvc\\saleswebmvc\\views\\tarefas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\tarefas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\vinyo\\source\\repos\\saleswebmvc\\saleswebmvc\\controllers\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\controllers\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\vinyo\\source\\repos\\saleswebmvc\\saleswebmvc\\data\\saleswebmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\data\\saleswebmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\vinyo\\source\\repos\\saleswebmvc\\saleswebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\vinyo\\source\\repos\\saleswebmvc\\saleswebmvc\\views\\funcionarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\funcionarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\vinyo\\source\\repos\\saleswebmvc\\saleswebmvc\\views\\funcionarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC6696E0-DCED-4118-87BA-E7B81509C214}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\funcionarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Views\\Departments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Departments\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Views\\Departments\\Edit.cshtml",
+              "RelativeToolTip": "SalesWebMvc\\Views\\Departments\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T22:23:56.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Models\\Department.cs",
+              "RelativeToolTip": "SalesWebMvc\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T22:24:50.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tarefas.cs",
+              "DocumentMoniker": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Models\\Tarefas.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Models\\Tarefas.cs",
+              "ToolTip": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Models\\Tarefas.cs",
+              "RelativeToolTip": "SalesWebMvc\\Models\\Tarefas.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T22:24:29.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SellersController.cs",
+              "DocumentMoniker": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Controllers\\SellersController.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\SellersController.cs",
+              "ToolTip": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Controllers\\SellersController.cs",
+              "RelativeToolTip": "SalesWebMvc\\Controllers\\SellersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T22:24:25.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Views\\Tarefas\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Tarefas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Views\\Tarefas\\Index.cshtml",
+              "RelativeToolTip": "SalesWebMvc\\Views\\Tarefas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T12:24:34.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Views\\Tarefas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Tarefas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Views\\Tarefas\\Edit.cshtml",
+              "RelativeToolTip": "SalesWebMvc\\Views\\Tarefas\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T12:24:33.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SalesWebMvcContext.cs",
+              "DocumentMoniker": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Data\\SalesWebMvcContext.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Data\\SalesWebMvcContext.cs",
+              "ToolTip": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Data\\SalesWebMvcContext.cs",
+              "RelativeToolTip": "SalesWebMvc\\Data\\SalesWebMvcContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:50:23.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "SalesWebMvc\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:20:45.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Departments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "SalesWebMvc\\Views\\Departments\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T01:03:06.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Models\\Seller.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Models\\Seller.cs",
+              "ToolTip": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Models\\Seller.cs",
+              "RelativeToolTip": "SalesWebMvc\\Models\\Seller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T00:15:23.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FuncionariosController.cs",
+              "DocumentMoniker": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Controllers\\FuncionariosController.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\FuncionariosController.cs",
+              "ToolTip": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Controllers\\FuncionariosController.cs",
+              "RelativeToolTip": "SalesWebMvc\\Controllers\\FuncionariosController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T03:31:26.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Views\\Funcionarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Funcionarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Views\\Funcionarios\\Create.cshtml",
+              "RelativeToolTip": "SalesWebMvc\\Views\\Funcionarios\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T04:25:46.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Views\\Funcionarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Funcionarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vinyo\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Views\\Funcionarios\\Index.cshtml",
+              "RelativeToolTip": "SalesWebMvc\\Views\\Funcionarios\\Index.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T03:34:11.521Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

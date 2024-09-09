@@ -1,0 +1,43 @@
+﻿
+/* Estilo geral para todos os links de ação */
+.action-link {
+    text-decoration: none;
+    color: #007bff; /* Cor padrão dos links */
+    padding: 0.5rem;
+    border-radius: 4px; /* Cantos arredondados */
+    transition: color 0.3s, background-color 0.3s; /* Transição suave para hover */
+}
+
+/* Estilo específico para o link de edição */
+.edit-link {
+    background-color: #d4edda; /* Fundo verde claro */
+}
+
+/* Estilo específico para o link de detalhes */
+.details-link {
+    background-color: #cce5ff; /* Fundo azul claro */
+}
+
+/* Estilo específico para o link de deletar */
+.delete-link {
+    background-color: #f8d7da; /* Fundo vermelho claro */
+}
+
+/* Efeito de hover para todos os links de ação */
+.action-link:hover {
+    color: #fff; /* Texto branco no hover */
+    background-color: #0056b3; /* Cor de fundo azul escuro para todos os links */
+}
+
+/* Efeito de hover específico para cada link */
+.edit-link:hover {
+    background-color: #28a745; /* Verde escuro para o link de editar */
+}
+
+.details-link:hover {
+    background-color: #004085; /* Azul escuro para o link de detalhes */
+}
+
+.delete-link:hover {
+    background-color: #721c24; /* Vermelho escuro para o link de deletar */
+}
