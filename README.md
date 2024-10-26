@@ -30,7 +30,9 @@ Este repositório contém o projeto **SalesWebMvc**, que é um sistema CRUD dese
    git clone https://github.com/seu-usuario/SalesWebMvc.git
 Navegue até o Repositório do projeto.
    cd SalesWebMvc
+   <br>
 Restaure as dependências do projeto:
    dotnet restore
+   <br>
 Execute o projeto:
    dotnet run
